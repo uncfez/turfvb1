@@ -14,8 +14,8 @@ role: Turf Västerbotten
 
 # Organizations/Affiliations
 #organizations:
-- name: Turf Västerbotten
-  url: ""
+#- name: Turf Västerbotten
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Bara en zon till...
