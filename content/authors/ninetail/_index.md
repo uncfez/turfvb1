@@ -4,7 +4,7 @@ title: Ninetail
 
 # Username (this should match the folder name)
 authors:
-- Ninetail
+- ninetail
 
 # Is this the primary user of the site?
 superuser: false
@@ -21,7 +21,7 @@ role: Turf Västerbotten
 bio: Bara en zon till...
 
 # Avatar filename 
-avatar_filename: avatar.png
+#avatar_filename: avatar.png
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -76,4 +76,4 @@ email: ""
 ---
 
 Man ångrar aldrig en turftur!
----
+
