@@ -7,6 +7,9 @@ tags:
   - foreningsinformation
 categories:
   - okategoriserade
+image:
+  filename: featured.jpg
+  caption: "Foto: Ninetail"
 ---
 Det drar ihop sig till vår och med vår följer förutom ökad lust att turfa och delta i träffar också motionsskrivande och årsstämma. Det är alltså hög tid att betala in årsavgiften för medlemsskap i Turf Västerbotten 2022. För mer information om hur man går tillväga, se <https://turfvasterbotten.wordpress.com/bli-medlem/> .
 
@@ -43,6 +46,6 @@ Turf Västerbotten är en ung förening som fortfarande är under uppbyggnad. So
 
 Sammanfattningsvis: Ju fler vi är, desto mer roliga saker kan vi hitta på. Bli medlem!
 
-![](https://turfvasterbotten.files.wordpress.com/2022/02/27459207_863984637095414_2836707591140403082_n.jpeg?w=960 "Mot framtiden! Foto: Ninetail")
+![](https://res.cloudinary.com/turfvb/image/upload/v1649799255/tvb/2022/02/27459207_863984637095414_2836707591140403082_n_itmeyj.jpg "Mot framtiden! Foto: Ninetail")
 
 Mot framtiden! Foto: Ninetail
